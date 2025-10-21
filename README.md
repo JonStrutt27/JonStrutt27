@@ -10,11 +10,12 @@ Interests
 - Database management
 - Backend development
 - General data structures and algorithms
-- Learning Linux (currently using Mint), Raspberry Pi, and new code editors (I use Vim btw)
+- Learning Linux (currently using Mint), Raspberry Pi, and new code editors (like Vim)
 
 Languages
 - Golang
 - JavaScript
+- TypeScript
 
 <!---
 JonStrutt27/JonStrutt27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
