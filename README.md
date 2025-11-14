@@ -10,7 +10,7 @@ Interests
 - Database management
 - Backend development
 - General data structures and algorithms
-- Learning Linux (currently using Mint), Raspberry Pi, and new code editors (like Vim)
+- Diving into new rabbit holes like Linux (currently using Mint), Raspberry Pi, and code editors (like Vim)
 
 Languages
 - Golang
